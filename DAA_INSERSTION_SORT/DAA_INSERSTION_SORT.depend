@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642004338 source:c:\users\nasreen parween\desktop\new folder\daa_inserstion_sort\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
