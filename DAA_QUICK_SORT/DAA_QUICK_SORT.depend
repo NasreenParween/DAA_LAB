@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1643806793 source:c:\users\nasreen parween\desktop\new folder\daa_quick_sort\main.cpp
+	<iostream>
+	<limits.h>
+	<stdlib.h>
+	<fstream>
+
